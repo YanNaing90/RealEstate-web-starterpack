@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "New Dagon Homies",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "New Dagon City Street, Near Gandmar WholeSale, Yangon",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Yadanarpon Garden City",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": " 107st, 40x41, MaharAungMyay Township , Mandalay",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "City of Flowers",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Beside POL-LSO Road, Quarter(1), Pyin Oo Lwin",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Sky Villa",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "60, 22x23, AungMyayTharzan Township, Mandalay",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Northern City",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Near YGN-HLalGuu Road, MhawBi Township, Yangon",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Linn Pyae Home",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "ParLyan(1), PawDawMu Street, Near DOA Garden, Tachileik",
     "image": "./r3.png"
   }
 ]
